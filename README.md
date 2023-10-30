@@ -3,7 +3,7 @@
 Among the files you will find our logos and screen layout, as well as everything you need to setup
 custom DMX lightshows for our world.
 
-# 𝐕𝐢𝐝𝐞𝐨 𝐩𝐥𝐚𝐲𝐞𝐫 𝐥𝐚𝐲𝐨𝐮𝐭, 𝐝𝐦𝐱 𝐩𝐚𝐭𝐜𝐡𝐥𝐢𝐬𝐭 𝐚𝐧𝐝 𝐮𝐧𝐢𝐭𝐲 𝐬𝐜𝐞𝐧𝐞 𝐟𝐢𝐥𝐞.
+𝐕𝐢𝐝𝐞𝐨 𝐩𝐥𝐚𝐲𝐞𝐫 𝐥𝐚𝐲𝐨𝐮𝐭, 𝐝𝐦𝐱 𝐩𝐚𝐭𝐜𝐡𝐥𝐢𝐬𝐭 𝐚𝐧𝐝 𝐮𝐧𝐢𝐭𝐲 𝐬𝐜𝐞𝐧𝐞 𝐟𝐢𝐥𝐞.
 
 You can use the scene file to create and test your own light setups.
 Requires being familiar with QLC+, SoundSwitch or other similar software.
