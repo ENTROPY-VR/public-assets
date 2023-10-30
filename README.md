@@ -6,7 +6,8 @@ custom DMX lightshows for our world.
 
 You can use the scene file to create and test your own light setups.
 Requires being familiar with QLC+, SoundSwitch or other similar software.
-Make a new Unity Project, import the required packages and all the files inside the Assets folder **before** adding the scene file.
+Make a new Unity Project, import the required packages and all the files inside the Assets folder **before** opening the scene file.
+Ensure that you leave all the files within the default Assets folder, as the scene file won't have matching paths otherwise.
 Utilize the dmx patchlist to configure your controller.
 
 𝐑𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬 𝐟𝐨𝐫 𝐬𝐜𝐞𝐧𝐞 𝐟𝐢𝐥𝐞;
