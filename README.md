@@ -11,17 +11,17 @@ Make a new Unity Project, import the required packages and all the files from th
 Utilize the dmx patchlist to configure your controller.
 
 𝐑𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬 𝐟𝐨𝐫 𝐬𝐜𝐞𝐧𝐞 𝐟𝐢𝐥𝐞;
->> Latest UdonSharp and AudioLink via VRChat Creator Companion
->> <https://github.com/AcChosen/VR-Stage-Lighting>
+> Latest UdonSharp and AudioLink via VRChat Creator Companion
+> <https://github.com/AcChosen/VR-Stage-Lighting>
 
 For use of extra special effects also import:
->> <https://github.com/AcChosen/VRSL-GPUReadBack>
->> <https://lukasong.gumroad.com/l/junelite>
+> <https://github.com/AcChosen/VRSL-GPUReadBack>
+> <https://lukasong.gumroad.com/l/junelite>
 
 If you want to test the stream layout add ProTV
->> <https://architechvr.gumroad.com/l/protv>
+> <https://architechvr.gumroad.com/l/protv>
 
 𝐎𝐭𝐡𝐞𝐫 𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬;
->> <https://acchosen.gumroad.com/l/xYaPu>
->> <https://www.qlcplus.org/downloads.php>
->> <https://www.soundswitch.com>
+> <https://acchosen.gumroad.com/l/xYaPu>
+> <https://www.qlcplus.org/downloads.php>
+> <https://www.soundswitch.com>
