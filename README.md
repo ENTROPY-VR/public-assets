@@ -1,5 +1,7 @@
 # Public Assets
 
+NOTICE: Our layouts will change in the somewhat near future. If you are currently making something for an event, or plan to host one, please message me on discord so we can make sure I won't change things before you run your event. (@lightningdasher)
+
 Among the files you will find our logos and screen layout, as well as everything you need to setup
 custom DMX lightshows for our world.
 
